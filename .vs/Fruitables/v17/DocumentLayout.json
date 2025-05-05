@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Fruitables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\controllers\\shopcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\controllers\\shopcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|c:\\users\\user\\source\\repos\\fruitables\\fruitables\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E6318B2-460B-4897-98AE-18D7E0E6DA3E}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,109 +37,107 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 327,
+          "DockedHeight": 33,
           "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "Fruitables\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "Fruitables\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:56:43.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Fruitables\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Models\\Product.cs",
-              "RelativeToolTip": "Fruitables\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:22:19.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Fruitables\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Fruitables\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:08:26.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\ViewModels\\DetailVM.cs",
-              "RelativeDocumentMoniker": "Fruitables\\ViewModels\\DetailVM.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\ViewModels\\DetailVM.cs",
-              "RelativeToolTip": "Fruitables\\ViewModels\\DetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:56:41.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShopController1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Controllers\\ShopController1.cs",
-              "RelativeDocumentMoniker": "Fruitables\\Controllers\\ShopController1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Controllers\\ShopController1.cs",
-              "RelativeToolTip": "Fruitables\\Controllers\\ShopController1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:53:40.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Fruitables\\Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "Fruitables\\Views\\Shop\\Detail.cshtml",
-              "ViewState": "AgIAAE0BAAAAAAAAAAAAAFoBAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:52:13.527Z"
+              "WhenOpened": "2025-05-02T14:51:35.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Fruitables\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Fruitables\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAAANEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:46:54.703Z"
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:51:21.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Fruitables\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Fruitables\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:46:45.939Z"
+              "WhenOpened": "2025-05-02T14:43:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T14:43:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T14:39:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T14:39:04.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T14:38:57.848Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
