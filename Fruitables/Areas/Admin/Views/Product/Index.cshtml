@@ -1,7 +1,6 @@
-﻿
-@model List<Category>
+﻿@model List<Product>
 @{
-    int count=0;
+    int count = 0;
 }
 <div class="row">
     <div class="col-lg-12 grid-margin stretch-card">
@@ -19,9 +18,7 @@
                                 <th>
                                     Name
                                 </th>
-                                <th>
-                                    Product Count
-                                </th>
+                              
                                 <th>
                                     Date
                                 </th>
@@ -32,7 +29,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (Category category in Model)
+                            @foreach (Product product in Model)
                             {
                                 count++;
                                 <tr>
@@ -40,26 +37,20 @@
                                         @count
                                     </td>
                                     <td>
-                                        @category.Name
+                                        @product.Name
+                                    </td>
+                                    
+                                    <td>
+                                        @product.CreateAt
                                     </td>
                                     <td>
-                                        
-                                        
-                                        @category.Products.Count
-
-                                       
-                                    </td>
-                                    <td>
-                                        @category.CreateAt
-                                    </td>
-                                    <td>
-                                         <a asp-action="update" asp-route-id="@category.Id" class="btn btn-warning">Update</a>
-                                         <a asp-action="delete" asp-route-id="@category.Id" class="btn btn-danger">Delete</a>
-                                         <a asp-action="detail" asp-route-id="@category.Id" class="btn btn-warning">Deatil</a>
+                                        <a asp-action="update" asp-route-id="@product.Id" class="btn btn-warning">Update</a>
+                                        <a asp-action="delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+                                        <a asp-action="detail" asp-route-id="@product.Id" class="btn btn-warning">Deatil</a>
                                     </td>
                                 </tr>
                             }
-                           
+
 
                         </tbody>
                     </table>
