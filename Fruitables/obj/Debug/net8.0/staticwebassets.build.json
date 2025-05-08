@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AkAT1UOTtidqExzL+PdUb+lsDfZIU5B/JoMNoFGkkxE=",
+  "Hash": "oBGGsp2D7PQYs1gdSBkruyzGIqtgCq6rYG+3if9WdJI=",
   "Source": "Fruitables",
   "BasePath": "_content/Fruitables",
   "Mode": "Default",
@@ -18957,6 +18957,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\mango.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\assets\\img\\nar.jpg",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "assets/img/nar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09c5dw5pt1",
+      "Integrity": "vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\nar.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\assets\\img\\org.jpg",
@@ -95336,6 +95357,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-zIYGVsirXINHEB0TeuQ2VjQOXBjD53lWmYhQqgqCNn8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/nar.09c5dw5pt1.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\assets\\img\\nar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 14:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09c5dw5pt1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/nar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/nar.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\assets\\img\\nar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 14:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo="
         }
       ]
     },

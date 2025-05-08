@@ -900,6 +900,7 @@ wwwroot\assets\img\hero-img.jpg
 wwwroot\assets\img\hero-img-1.png
 wwwroot\assets\img\hero-img-2.jpg
 wwwroot\assets\img\mango.jpg
+wwwroot\assets\img\nar.jpg
 wwwroot\assets\img\org.jpg
 wwwroot\assets\img\payment.png
 wwwroot\assets\img\single-item.jpg

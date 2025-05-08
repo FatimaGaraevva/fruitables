@@ -10824,6 +10824,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zIYGVsirXINHEB0TeuQ2VjQOXBjD53lWmYhQqgqCNn8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8592"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zIYGVsirXINHEB0TeuQ2VjQOXBjD53lWmYhQqgqCNn8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 13:16:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Fruitables/assets/img/nar.09c5dw5pt1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\nar.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"09c5dw5pt1"},{"Name":"integrity","Value":"sha256-vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo="},{"Name":"label","Value":"_content/Fruitables/assets/img/nar.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"59289"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 14:32:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Fruitables/assets/img/nar.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\nar.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"59289"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 14:32:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Fruitables/assets/img/org.2rtqphrdqf.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\org.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

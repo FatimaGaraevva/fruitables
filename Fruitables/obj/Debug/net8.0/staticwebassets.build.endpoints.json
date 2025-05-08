@@ -73967,6 +73967,88 @@
       ]
     },
     {
+      "Route": "assets/img/nar.09c5dw5pt1.jpg",
+      "AssetFile": "assets/img/nar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 14:32:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09c5dw5pt1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/nar.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/nar.jpg",
+      "AssetFile": "assets/img/nar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 14:32:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPWJg28ZlmfYkJc8rRUOLzuCs9qcPwiFsNYWLQaynqo="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/org.2rtqphrdqf.jpg",
       "AssetFile": "assets/img/org.jpg",
       "Selectors": [],

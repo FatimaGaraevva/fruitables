@@ -3609,6 +3609,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\mango.jpg"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\assets\\img\\nar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\nar.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\Fruitables\\Fruitables\\wwwroot\\assets\\img\\org.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\org.jpg"
     },
